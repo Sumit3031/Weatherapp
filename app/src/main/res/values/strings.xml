@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="enter_country_code">Enter Country Code</string>
+    <string name="get" translatable="false">Check</string>
+    <string name="weather_update">WEATHER REPORT</string>
+</resources>
